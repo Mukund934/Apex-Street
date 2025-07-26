@@ -45,7 +45,7 @@ Modern typography, smooth hover animations, shadow effects, and interactive prod
 
 ## 🚀 Live Project
 
-🔗 [Visit Apex Street →](https://apex-street-git-main-mukund-thakurs-projects.vercel.app/)
+🔗 [Visit Apex Street →](https://apex-street.vercel.app/)
 
 
 ---
