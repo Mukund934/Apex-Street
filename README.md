@@ -1,4 +1,4 @@
-**
+
 ---
 
 # 🛍️ Apex Street – A Stylish and Modern E-Commerce UI
@@ -171,4 +171,3 @@ View the [LICENSE](./LICENSE) for full details.
 
 ---
 
-**
